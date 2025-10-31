@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Maa Puvvala Kameswari Biryani Center | Koraput, Odisha</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body { background-color: #fff8ea; }
+        .menu-table th, .menu-table td { text-align: center; }
+        .main-image { width: 100%; border-radius: 12px; margin-bottom: 1rem; }
+        .gallery-img { width: 100%; border-radius: 8px; margin-bottom: 1rem; }
+        .section { padding: 4rem 0; }
+        .testimonial { background: #fff3e0; border-radius: 8px; padding: 1rem; margin-bottom: 1rem; }
+    </style>
+</head>
+<body>
+    <!-- Header Image -->
+    <div class="container mt-3">
+        <img src="image.jpg" alt="Biryani Promotion" class="main-image">
+        <img src="Maa-Puvvala.jpeg" alt="Shop Logo" class="gallery-img">
+        <img src="PHOTO-2025-10-31-17-13-14.jpg" alt="Shop Interior" class="gallery-img">
+    </div>
+    <!-- About Section -->
+    <section class="section" id="about">
+        <div class="container">
+            <h1 class="text-center mb-4">Maa Puvvala Kameswari Biryani Center</h1>
+            <h3 class="text-center mb-3">Koraput's Best Biryani! Come and taste it!</h3>
+            <p class="text-center">Located at Amla Kutir Road, Near Jagannath Temple, Koraput, Odisha, 764020.</p>
+        </div>
+    </section>
+    <!-- Menu Section -->
+    <section class="section" id="menu">
+        <div class="container">
+            <h2 class="text-center mb-5">Our Menu</h2>
+            <div class="table-responsive">
+                <table class="table menu-table table-bordered">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Item</th>
+                            <th>Price</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr><td>Veg Pulao</td><td>₹50</td></tr>
+                        <tr><td>Chicken Biryani</td><td>₹100</td></tr>
+                        <tr><td>Chicken Spcl Joint Biryani</td><td>₹110</td></tr>
+                        <tr><td>Mutton Biryani</td><td>₹140</td></tr>
+                        <tr><td>Thala Kayi Curry Biryani</td><td>₹120</td></tr>
+                        <tr><td>Spcl Mutton Keema Biryani</td><td>₹150</td></tr>
+                        <tr><td>Spcl Mutton Dum Biryani</td><td>₹150</td></tr>
+                        <tr><td>Chicken Pakoda</td><td>₹50</td></tr>
+                        <tr><td>Chicken Joint</td><td>₹60</td></tr>
+                        <tr><td>Spcl Chicken Joints Juicy</td><td>₹60</td></tr>
+                        <tr><td>Spcl Mutton Paya Soup</td><td>₹60</td></tr>
+                        <tr><td>Regular Mutton Paya Soup</td><td>₹40</td></tr>
+                        <tr><td>Chicken Curry</td><td>₹50</td></tr>
+                        <tr><td>Mutton Curry</td><td>₹100</td></tr>
+                        <tr><td>Spcl Thala Kayi Curry</td><td>₹70</td></tr>
+                    </tbody>
+                </table>
+            </div>
+            <div class="text-center mt-3">
+                <strong>Contact for Orders & Catering:</strong> +91 9438266504 , +91 9938830018
+            </div>
+        </div>
+    </section>
+    <!-- Reviews Section -->
+    <section id="reviews" class="section">
+        <div class="container">
+            <h2 class="text-center mb-5">Customer Reviews</h2>
+            <div class="row">
+                <div class="col-md-4">
+                    <div class="testimonial">
+                        <p>"The best biryani in Koraput! Authentic flavors and super fresh. Highly recommend!"</p>
+                        <p><strong>- Ramesh Kumar</strong></p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="testimonial">
+                        <p>"Loved the mutton biryani. The spices are just right, and the service is warm and welcoming."</p>
+                        <p><strong>- Priya Sharma</strong></p>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="testimonial">
+                        <p>"A hidden gem in Odisha. Their veg biryani is a must-try for vegetarians!"</p>
+                        <p><strong>- Anil Patel</strong></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer -->
+    <footer class="footer text-center">
+        <div class="container">
+            <p>&copy; 2023 Maa Puvvala Kameswari Biryani Center. All rights reserved.</p>
+            <p>Follow us on social media for updates!</p>
+        </div>
+    </footer>
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
+
+
